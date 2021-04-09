@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "portfolio ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emilyrh1058/portfolio-generator.git"
+  },
+  "author": "Emily",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emilyrh1058/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Emilyrh1058/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}

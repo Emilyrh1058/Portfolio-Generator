@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require('./dist/index.html');
 const inquirer = require("inquirer");
 const generatePage = require('./src/page-template');
 
